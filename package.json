@@ -12,6 +12,7 @@
     "dev:server": "json-server server.json -p 3333 -w -d 500"
   },
   "dependencies": {
+    "@hookform/resolvers": "^2.9.10",
     "@radix-ui/react-dialog": "^1.0.2",
     "@radix-ui/react-radio-group": "^1.1.0",
     "phosphor-react": "^1.4.1",
